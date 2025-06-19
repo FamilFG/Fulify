@@ -1,16 +1,32 @@
-# fulifyapp
+##📱 About
+Fulify is a mobile application in active development using Flutter. It is designed to help users easily:
 
-A new Flutter project.
+Search and book flights
 
-## Getting Started
+Browse and reserve hotels
 
-This project is a starting point for a Flutter application.
+View basic trip details and history
 
-A few resources to get you started if this is your first Flutter project:
+Use a simple, intuitive interface for navigation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+##🔜 Coming Soon:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Payment options (cash/card)
+
+Realtime backend with Firebase for booking storage
+
+##🛠️ Tech Stack
+Flutter (Frontend)
+
+Firebase (Planned for Backend & Storage)
+
+##🚧 Current Status
+This is an early-stage project.
+Basic UI screens for flight and hotel booking are under construction. Backend logic and payment systems are not yet implemented but are on the roadmap.
+
+##🤝 Contributions
+Ideas, UI suggestions, and travel feature requests are welcome!
+📩 Instagram: @famil.fg
+
+📸 App Mockup
+Coming soon…
