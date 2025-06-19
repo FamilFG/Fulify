@@ -4,30 +4,30 @@ A clean and modern Flutter app for planning your trips — book flights and rese
 
 📱 About:
 
-Fulify is a mobile application in active development using Flutter. It is designed to help users easily:
+- Fulify is a mobile application in active development using Flutter. It is designed to help users easily:
 
-Search and book flights
+- Search and book flights
 
-Browse and reserve hotels
+- Browse and reserve hotels
 
-See them in the profile tab
+- See them in the profile tab
 
-View basic trip details and history
+- View basic trip details and history
 
-Use a simple, intuitive interface for navigation
+- Use a simple, intuitive interface for navigation
 
 🔜 Coming Soon:
 
 
-Payment options (cash/card)
+- Payment options (cash/card)
 
-Realtime backend with Firebase for booking storage
+- Realtime backend with Firebase for booking storage
 
 🛠️ Tech Stack:
 
-Flutter (Frontend)
+- Flutter (Frontend)
 
-Firebase (Planned for Backend & Storage)
+- Firebase (Planned for Backend & Storage)
 
 🚧 Current Status:
 
