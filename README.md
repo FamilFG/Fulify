@@ -10,6 +10,8 @@ Search and book flights
 
 Browse and reserve hotels
 
+See them in the profile tab
+
 View basic trip details and history
 
 Use a simple, intuitive interface for navigation
