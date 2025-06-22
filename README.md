@@ -39,4 +39,5 @@ Ideas, UI suggestions, and travel feature requests are welcome!
 📩 Instagram: @famil.fg
 
 📸 App Mockup:
-Coming soon…
+![mockup](https://github.com/user-attachments/assets/32e707ea-79f7-4c67-82d9-78b757235795)
+
